@@ -52,7 +52,7 @@ Focused on cloud fundamentals, Kubernetes operations, Linux administration and s
 - Automation of VM and network provisioning with **Python/Bash**
 - Connectivity validation and operational testing
 
-🔗 **Repository:** [https://github.com/<TU_USUARIO>/<TU_REPO_CLOUD> ](https://github.com/pieroefe/Cloud-iaas-orchestrator.git) 
+🔗 **Repository:** (https://github.com/pieroefe/Cloud-iaas-orchestrator.git) 
 📌 Tech stack: `Linux` `QEMU/KVM` `Open vSwitch` `VLANs` `Python` `Bash`
 
 ---
