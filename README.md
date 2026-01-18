@@ -83,7 +83,7 @@ Focused on cloud fundamentals, Kubernetes operations, Linux administration and s
   <img src="https://img.shields.io/badge/LinkedIn-Piero%20Fernández-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:piero.fernandez.saenz@gmail.com">
+<a href="mailto:fernandezpiero11@gmail.com">
   <img src="https://img.shields.io/badge/fernandezpiero11%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
