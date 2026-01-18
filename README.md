@@ -52,7 +52,7 @@ Focused on cloud fundamentals, Kubernetes operations, Linux administration and s
 - Automation of VM and network provisioning with **Python/Bash**
 - Connectivity validation and operational testing
 
-🔗 **Repository:** https://github.com/<TU_USUARIO>/<TU_REPO_CLOUD>  
+🔗 **Repository:** [https://github.com/<TU_USUARIO>/<TU_REPO_CLOUD> ](https://github.com/pieroefe/Cloud-iaas-orchestrator.git) 
 📌 Tech stack: `Linux` `QEMU/KVM` `Open vSwitch` `VLANs` `Python` `Bash`
 
 ---
@@ -79,11 +79,16 @@ Focused on cloud fundamentals, Kubernetes operations, Linux administration and s
 
 ## 🌐 Me around the web
 
-<a href="https://www.linkedin.com/in/<TU_LINKEDIN>/">
-  <img src="https://img.shields.io/badge/LinkedIn-Piero%20Fernández-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/pierofernandezsaenz/">
+  <img src="https://img.shields.io/badge/LinkedIn-Piero%20Fernández-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/<TU_USUARIO>">
-  <img src="https://img.shields.io/github/followers/<TU_USUARIO>?label=follow&style=social" />
+
+<a href="mailto:piero.fernandez.saenz@gmail.com">
+  <img src="https://img.shields.io/badge/fernandezpiero11%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/pieroefe">
+  <img src="https://img.shields.io/github/followers/pieroefe?label=GitHub&style=social" />
 </a>
 
 ---
